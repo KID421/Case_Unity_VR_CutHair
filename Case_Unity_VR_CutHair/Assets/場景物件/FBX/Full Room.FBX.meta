@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: be725837286ca01438bb4382bdb2f214
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bowl
+    100002: Celling
+    100004: Chair_1
+    100006: Chair_2
+    100008: Chair_3
+    100010: Chair_4
+    100012: Cylinder016
+    100014: Cylinder017
+    100016: Cylinder018
+    100018: Cylinder019
+    100020: Cylinder020
+    100022: Cylinder021
+    100024: Floor
+    100026: Frame
+    100028: Frame001
+    100030: Frame002
+    100032: //RootNode
+    100034: Furniture
+    100036: Group1000
+    100038: Group989
+    100040: Group990
+    100042: Group991
+    100044: Group994
+    100046: Group995
+    100048: Group996
+    100050: Group998
+    100052: Group999
+    100054: Photo
+    100056: Photo001
+    100058: Photo002
+    100060: PhotoFrame_1\
+    100062: PhotoFrame_1\001
+    100064: PhotoFrame_1\002
+    100066: Rectangle4186
+    100068: Rectangle4187
+    100070: Rectangle4188
+    100072: Rectangle4189
+    100074: Rectangle4190
+    100076: Rectangle4191
+    100078: Rectangle4192
+    100080: Rectangle4193
+    100082: Rectangle4194
+    100084: Rectangle4195
+    100086: Rectangle4196
+    100088: Rectangle4197
+    100090: Rectangle4198
+    100092: Rectangle4199
+    100094: Rectangle4200
+    100096: Rectangle4201
+    100098: Rectangle4202
+    100100: Rectangle4203
+    100102: Rectangle4204
+    100104: Rectangle4205
+    100106: Rectangle4206
+    100108: Room
+    100110: Table
+    100112: Walls
+    100114: Walls 1
+    100116: win001
+    100118: win002
+    100120: win003
+    100122: win004
+    100124: win005
+    100126: win006
+    100128: Window_1
+    100130: Window_2
+    100132: Window_3
+    400000: bowl
+    400002: Celling
+    400004: Chair_1
+    400006: Chair_2
+    400008: Chair_3
+    400010: Chair_4
+    400012: Cylinder016
+    400014: Cylinder017
+    400016: Cylinder018
+    400018: Cylinder019
+    400020: Cylinder020
+    400022: Cylinder021
+    400024: Floor
+    400026: Frame
+    400028: Frame001
+    400030: Frame002
+    400032: //RootNode
+    400034: Furniture
+    400036: Group1000
+    400038: Group989
+    400040: Group990
+    400042: Group991
+    400044: Group994
+    400046: Group995
+    400048: Group996
+    400050: Group998
+    400052: Group999
+    400054: Photo
+    400056: Photo001
+    400058: Photo002
+    400060: PhotoFrame_1\
+    400062: PhotoFrame_1\001
+    400064: PhotoFrame_1\002
+    400066: Rectangle4186
+    400068: Rectangle4187
+    400070: Rectangle4188
+    400072: Rectangle4189
+    400074: Rectangle4190
+    400076: Rectangle4191
+    400078: Rectangle4192
+    400080: Rectangle4193
+    400082: Rectangle4194
+    400084: Rectangle4195
+    400086: Rectangle4196
+    400088: Rectangle4197
+    400090: Rectangle4198
+    400092: Rectangle4199
+    400094: Rectangle4200
+    400096: Rectangle4201
+    400098: Rectangle4202
+    400100: Rectangle4203
+    400102: Rectangle4204
+    400104: Rectangle4205
+    400106: Rectangle4206
+    400108: Room
+    400110: Table
+    400112: Walls
+    400114: Walls 1
+    400116: win001
+    400118: win002
+    400120: win003
+    400122: win004
+    400124: win005
+    400126: win006
+    400128: Window_1
+    400130: Window_2
+    400132: Window_3
+    2100000: Celling
+    2100002: Floor
+    2100004: WindowFrame
+    2100006: Walls
+    2100008: Chair
+    2100010: wood_Table
+    2100012: Photo_3
+    2100014: Frame
+    2100016: Photo_2
+    2100018: Photo_1
+    2100020: Bowl
+    2300000: bowl
+    2300002: Celling
+    2300004: Chair_1
+    2300006: Chair_2
+    2300008: Chair_3
+    2300010: Chair_4
+    2300012: Cylinder016
+    2300014: Cylinder017
+    2300016: Cylinder018
+    2300018: Cylinder019
+    2300020: Cylinder020
+    2300022: Cylinder021
+    2300024: Floor
+    2300026: Frame
+    2300028: Frame001
+    2300030: Frame002
+    2300032: Photo
+    2300034: Photo001
+    2300036: Photo002
+    2300038: Rectangle4186
+    2300040: Rectangle4187
+    2300042: Rectangle4188
+    2300044: Rectangle4189
+    2300046: Rectangle4190
+    2300048: Rectangle4191
+    2300050: Rectangle4192
+    2300052: Rectangle4193
+    2300054: Rectangle4194
+    2300056: Rectangle4195
+    2300058: Rectangle4196
+    2300060: Rectangle4197
+    2300062: Rectangle4198
+    2300064: Rectangle4199
+    2300066: Rectangle4200
+    2300068: Rectangle4201
+    2300070: Rectangle4202
+    2300072: Rectangle4203
+    2300074: Rectangle4204
+    2300076: Rectangle4205
+    2300078: Rectangle4206
+    2300080: Table
+    2300082: Walls 1
+    3300000: bowl
+    3300002: Celling
+    3300004: Chair_1
+    3300006: Chair_2
+    3300008: Chair_3
+    3300010: Chair_4
+    3300012: Cylinder016
+    3300014: Cylinder017
+    3300016: Cylinder018
+    3300018: Cylinder019
+    3300020: Cylinder020
+    3300022: Cylinder021
+    3300024: Floor
+    3300026: Frame
+    3300028: Frame001
+    3300030: Frame002
+    3300032: Photo
+    3300034: Photo001
+    3300036: Photo002
+    3300038: Rectangle4186
+    3300040: Rectangle4187
+    3300042: Rectangle4188
+    3300044: Rectangle4189
+    3300046: Rectangle4190
+    3300048: Rectangle4191
+    3300050: Rectangle4192
+    3300052: Rectangle4193
+    3300054: Rectangle4194
+    3300056: Rectangle4195
+    3300058: Rectangle4196
+    3300060: Rectangle4197
+    3300062: Rectangle4198
+    3300064: Rectangle4199
+    3300066: Rectangle4200
+    3300068: Rectangle4201
+    3300070: Rectangle4202
+    3300072: Rectangle4203
+    3300074: Rectangle4204
+    3300076: Rectangle4205
+    3300078: Rectangle4206
+    3300080: Table
+    3300082: Walls 1
+    4300000: Celling
+    4300002: Floor
+    4300004: Rectangle4186
+    4300006: Rectangle4187
+    4300008: Rectangle4188
+    4300010: Rectangle4189
+    4300012: Rectangle4190
+    4300014: Rectangle4191
+    4300016: Cylinder016
+    4300018: Cylinder017
+    4300020: Rectangle4192
+    4300022: Rectangle4193
+    4300024: Rectangle4194
+    4300026: Rectangle4195
+    4300028: Rectangle4196
+    4300030: Rectangle4197
+    4300032: Rectangle4198
+    4300034: Cylinder018
+    4300036: Cylinder019
+    4300038: Rectangle4199
+    4300040: Rectangle4200
+    4300042: Rectangle4201
+    4300044: Rectangle4202
+    4300046: Rectangle4203
+    4300048: Rectangle4204
+    4300050: Rectangle4205
+    4300052: Cylinder020
+    4300054: Cylinder021
+    4300056: Rectangle4206
+    4300058: Walls
+    4300060: Chair_3
+    4300062: Chair_1
+    4300064: Table
+    4300066: Chair_2
+    4300068: Chair_4
+    4300070: Photo002
+    4300072: Frame002
+    4300074: Photo001
+    4300076: Frame001
+    4300078: Frame
+    4300080: Photo
+    4300082: bowl
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowl
+    second: {fileID: 2100000, guid: 70cfcadd477a66d409ab6de50a95f5ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Celling
+    second: {fileID: 2100000, guid: ab893fee34b881b4693b77ef0456c205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair
+    second: {fileID: 2100000, guid: d0816c4aad968be43b2c15e73d9b459f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: b00b4c01103351f41be37c58ad3dcb6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame
+    second: {fileID: 2100000, guid: c7cd7361284fe2643a4c2179175e2b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo_1
+    second: {fileID: 2100000, guid: b38c21fb4ed2dae4cabef7303429d408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo_2
+    second: {fileID: 2100000, guid: 8e9c94baf84fb864495db79a06faf76a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photo_3
+    second: {fileID: 2100000, guid: c1532cfc84e1d7c418f318d441f3c7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 005e864b5cca7cc4da8ed0575d2a1b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame
+    second: {fileID: 2100000, guid: f1d0ab47f61ee354e9f441859954778f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_Table
+    second: {fileID: 2100000, guid: e677fb9789715ef45948fcf05b501181, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CREAM_4_3
+    second: {fileID: 2800000, guid: 0b104f30efd9b7a4e9e7a0a7b2debc28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PARKOLD72
+    second: {fileID: 2800000, guid: 022d2513a180c53448950ffc7b6df9d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pic (1)
+    second: {fileID: 2800000, guid: d5dc1d3313da06044ab7afcf936b9561, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pic (2)
+    second: {fileID: 2800000, guid: d9ce1c5ea76155842aab6d3450792163, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pic (3)
+    second: {fileID: 2800000, guid: 016b4c8dc84a34444a381bb1cdc2aadb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Yasen
+    second: {fileID: 2800000, guid: 34c4207116a77854eb3b348d14f1d067, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: old32_white
+    second: {fileID: 2800000, guid: 88ec5bf43ea296148ab4953da229d001, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_plaster_02_diff_1k
+    second: {fileID: 2800000, guid: 13ade6c20fc64cd48afc89b4b180857f, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

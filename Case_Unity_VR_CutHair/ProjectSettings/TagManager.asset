@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - projectile
+  - TeleportIgnore
+  - Hand
+  - "\u7C64"
+  - "\u885B\u751F\u7D19"
+  - "\u62BD\u8D77\u4F86\u7684\u885B\u751F\u7D19"
+  - "\u672A\u6AA2\u67E5\u982D\u9AEE"
+  - "\u5DF2\u6AA2\u67E5\u982D\u9AEE"
+  - "\u672A\u6AA2\u67E5\u524D\u9AEE"
+  - "\u5DF2\u6AA2\u67E5\u524D\u9AEE"
+  - "\u672A\u6AA2\u67E5\u53F3\u9AEE"
+  - "\u5DF2\u6AA2\u67E5\u53F3\u9AEE"
+  - "\u672A\u6AA2\u67E5\u5DE6\u9AEE"
+  - "\u5DF2\u6AA2\u67E5\u5DE6\u9AEE"
+  - "\u672A\u6AA2\u67E5\u5F8C\u9AEE"
+  - "\u5DF2\u6AA2\u67E5\u5F8C\u9AEE"
+  - "\u9802\u90E8\u982D\u9AEE"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hand
+  - HandCanTouch
+  - HandCantTouch
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

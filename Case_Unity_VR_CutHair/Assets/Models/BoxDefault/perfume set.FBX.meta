@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 1398b5fc611df1343a6a754d64dad571
+timeCreated: 1516929497
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Acqua Di GIO box
+    100002: Box001
+    100004: Box003
+    100006: Box005
+    100008: Box006
+    100010: Box008
+    100012: Chanel le lift
+    100014: Cylinder001
+    100016: Cylinder002
+    100018: Cylinder003
+    100020: Cylinder004
+    100022: Cylinder005
+    100024: Cylinder007
+    100026: Cylinder008
+    100028: Cylinder012
+    100030: Line001
+    100032: Line003
+    100034: Line004
+    100036: Line005
+    100038: Line006
+    100040: Line008
+    100042: Line009
+    100044: Object001
+    100046: Particle View 01
+    100048: //RootNode
+    100050: Plane001
+    100052: Rectangle001
+    100054: Sphere002
+    100056: Text009
+    100058: Text010
+    100060: Tube001
+    400000: Acqua Di GIO box
+    400002: Box001
+    400004: Box003
+    400006: Box005
+    400008: Box006
+    400010: Box008
+    400012: Chanel le lift
+    400014: Cylinder001
+    400016: Cylinder002
+    400018: Cylinder003
+    400020: Cylinder004
+    400022: Cylinder005
+    400024: Cylinder007
+    400026: Cylinder008
+    400028: Cylinder012
+    400030: Line001
+    400032: Line003
+    400034: Line004
+    400036: Line005
+    400038: Line006
+    400040: Line008
+    400042: Line009
+    400044: Object001
+    400046: Particle View 01
+    400048: //RootNode
+    400050: Plane001
+    400052: Rectangle001
+    400054: Sphere002
+    400056: Text009
+    400058: Text010
+    400060: Tube001
+    2100000: Plastic Bl Glossy
+    2100002: box armani
+    2100004: Text_
+    2100006: Glass par 2
+    2100008: water par p
+    2100010: metallic gold 1
+    2100012: Plastic Black Mated
+    2100014: Plastic White Glossy refr
+    2100016: metallic gold
+    2100018: Plastic White Mated
+    2100020: Plastic Black Glossy krem
+    2100022: Glass par
+    2100024: Plastic RED Glossy krem
+    2100026: Nikel polish cap
+    2100028: water par
+    2100030: Metal  Mated
+    2100032: Glass armani bottle
+    2100034: 05 - Default
+    2100036: Plate-Glass black parf 2
+    2100038: Plate-Glass black parf 3
+    2100040: Plate-Glass black parf
+    2300000: Acqua Di GIO box
+    2300002: Box001
+    2300004: Box003
+    2300006: Box005
+    2300008: Box006
+    2300010: Box008
+    2300012: Chanel le lift
+    2300014: Cylinder001
+    2300016: Cylinder002
+    2300018: Cylinder003
+    2300020: Cylinder004
+    2300022: Cylinder005
+    2300024: Cylinder007
+    2300026: Cylinder008
+    2300028: Cylinder012
+    2300030: Line001
+    2300032: Line003
+    2300034: Line004
+    2300036: Line005
+    2300038: Line006
+    2300040: Line008
+    2300042: Line009
+    2300044: Object001
+    2300046: Plane001
+    2300048: Rectangle001
+    2300050: Sphere002
+    2300052: Text009
+    2300054: Text010
+    2300056: Tube001
+    3300000: Acqua Di GIO box
+    3300002: Box001
+    3300004: Box003
+    3300006: Box005
+    3300008: Box006
+    3300010: Box008
+    3300012: Chanel le lift
+    3300014: Cylinder001
+    3300016: Cylinder002
+    3300018: Cylinder003
+    3300020: Cylinder004
+    3300022: Cylinder005
+    3300024: Cylinder007
+    3300026: Cylinder008
+    3300028: Cylinder012
+    3300030: Line001
+    3300032: Line003
+    3300034: Line004
+    3300036: Line005
+    3300038: Line006
+    3300040: Line008
+    3300042: Line009
+    3300044: Object001
+    3300046: Plane001
+    3300048: Rectangle001
+    3300050: Sphere002
+    3300052: Text009
+    3300054: Text010
+    3300056: Tube001
+    4300000: Line009
+    4300002: Acqua Di GIO box
+    4300004: Chanel le lift
+    4300006: Plane001
+    4300008: Sphere002
+    4300010: Object001
+    4300012: Tube001
+    4300014: Cylinder012
+    4300016: Line008
+    4300018: Rectangle001
+    4300020: Text009
+    4300022: Cylinder002
+    4300024: Box003
+    4300026: Text010
+    4300028: Cylinder004
+    4300030: Box005
+    4300032: Line005
+    4300034: Cylinder003
+    4300036: Cylinder005
+    4300038: Line006
+    4300040: Cylinder007
+    4300042: Cylinder008
+    4300044: Box006
+    4300046: Box008
+    4300048: Line001
+    4300050: Line004
+    4300052: Cylinder001
+    4300054: Box001
+    4300056: Line003
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: ee73d6f687650834b9784d377fc00cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass armani bottle
+    second: {fileID: 2100000, guid: f1c20e9de1a0a4a46b2581439ddbfb44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass par
+    second: {fileID: 2100000, guid: 3d65183e3537cd149b1c1d4dcd0bb574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass par 2
+    second: {fileID: 2100000, guid: 8221361bdfe6e894a8b7b7b28de9e8f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal  Mated
+    second: {fileID: 2100000, guid: e0500f4e5fc18ca4cba9a187d79f317e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nikel polish cap
+    second: {fileID: 2100000, guid: 54d32849cf451af48a38d881036303df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Bl Glossy
+    second: {fileID: 2100000, guid: 5d1d20898ff677b4da899fda32da59ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Black Glossy krem
+    second: {fileID: 2100000, guid: 5be6e8a26220e874a8c481e58698249f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Black Mated
+    second: {fileID: 2100000, guid: 877e7045bb462c142a573e5174614073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic RED Glossy krem
+    second: {fileID: 2100000, guid: dcecc72e32f8758448e44c3060be51cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic White Glossy refr
+    second: {fileID: 2100000, guid: caf101092186b2f489a3e35f30cd637c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic White Mated
+    second: {fileID: 2100000, guid: bf24c54179891164da771ad5a608505d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate-Glass black parf
+    second: {fileID: 2100000, guid: a10367def5083964c8454e3becbdf584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate-Glass black parf 2
+    second: {fileID: 2100000, guid: 7f44aa14f2499d4498fdbcc4ea9fd854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate-Glass black parf 3
+    second: {fileID: 2100000, guid: e87718fb40348004c9d10c9cac0585be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text_
+    second: {fileID: 2100000, guid: 924cbc28c4974814da81238eb9c133af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box armani
+    second: {fileID: 2100000, guid: 0f3f214dee36fc34fa133059a0b57561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metallic gold
+    second: {fileID: 2100000, guid: aaf1e5241937cf146b51084cfd6314b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metallic gold 1
+    second: {fileID: 2100000, guid: 652da559e54b64f42874b5c93b3c13e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water par
+    second: {fileID: 2100000, guid: e2c1b147ab5aec043bf0b285a8ca0d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water par p
+    second: {fileID: 2100000, guid: dd57d60b31c8f4a4483c3115ec06c614, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
