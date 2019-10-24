@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 
+#if UNITY_EDITOR
+using UnityEditor;
 [CustomEditor(typeof(GameObjectDeformer))]
 public class GameObjectDeformerEditor : Editor
 {
@@ -139,3 +140,4 @@ public class GameObjectDeformerEditor : Editor
         deformMesh.vert.Clear();
     }
 }
+#endif
