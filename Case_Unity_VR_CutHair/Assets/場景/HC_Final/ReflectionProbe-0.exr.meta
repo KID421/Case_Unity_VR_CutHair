@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 50911ac880816f146bb4ae3c9b5a9ead
-timeCreated: 1525681241
-licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     8900000: generatedCubemap
@@ -66,7 +64,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
