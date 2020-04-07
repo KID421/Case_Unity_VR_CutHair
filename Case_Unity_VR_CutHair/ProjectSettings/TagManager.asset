@@ -3,25 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - FxTemporaire
-  - projectile
-  - TeleportIgnore
-  - Hand
-  - "\u7C64"
-  - "\u885B\u751F\u7D19"
-  - "\u62BD\u8D77\u4F86\u7684\u885B\u751F\u7D19"
-  - "\u672A\u6AA2\u67E5\u982D\u9AEE"
-  - "\u5DF2\u6AA2\u67E5\u982D\u9AEE"
-  - "\u672A\u6AA2\u67E5\u524D\u9AEE"
-  - "\u5DF2\u6AA2\u67E5\u524D\u9AEE"
-  - "\u672A\u6AA2\u67E5\u53F3\u9AEE"
-  - "\u5DF2\u6AA2\u67E5\u53F3\u9AEE"
-  - "\u672A\u6AA2\u67E5\u5DE6\u9AEE"
-  - "\u5DF2\u6AA2\u67E5\u5DE6\u9AEE"
-  - "\u672A\u6AA2\u67E5\u5F8C\u9AEE"
-  - "\u5DF2\u6AA2\u67E5\u5F8C\u9AEE"
-  - "\u9802\u90E8\u982D\u9AEE"
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -31,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - Hand
-  - HandCanTouch
-  - HandCantTouch
+  - 
+  - 
+  - 
   - 
   - 
   - 
